@@ -203,12 +203,15 @@
      id="layer1"
      inkscape:highlight-color="#1740ea"
      transform="translate(-641.00098,371)"><path
-       fill="currentColor"
        d="M 8813.9984,1327.9998 V 775.99976 H 8543.999 v -148 h 700 v 148 h -270.0006 v 552.00004 z"
        id="path1-9"
        inkscape:label="T"
        sodipodi:nodetypes="ccccccccc" /><path
-       fill="currentColor"
+       id="rect50"
+       style="stroke-width:0"
+       d="m 2664.0007,1327.9998 h -161 V 627.99976 h 176.9999 L 2852.5368,884 3026.0006,627.99976 h 176.9999 v 700.00004 h -161 l 10e-5,-450.00004 L 2853.4673,1154 2664.0006,877.99976 Z"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="M" /><path
        d="m 5092,465 v -700 h 700 V -87.000002 H 5253 V 48 h 481 v 147 h -481 v 270 z"
        id="path1-0"
        sodipodi:nodetypes="ccccccccccc"
