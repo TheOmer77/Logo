@@ -201,7 +201,12 @@
      inkscape:label="Characters"
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:highlight-color="#1740ea" /><g
+     inkscape:highlight-color="#1740ea"
+     transform="translate(-641.00098,371)"><path
+       d="m 4229,465 v -700 h 695 V -87 H 4390 V 41 h 486 v 143 h -486 v 133 h 539 v 148 z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="E" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Guide squares"
