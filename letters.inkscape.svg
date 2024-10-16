@@ -203,6 +203,11 @@
      id="layer1"
      inkscape:highlight-color="#1740ea"
      transform="translate(-641.00098,371)"><path
+       fill="currentColor"
+       d="m 5092,464.99991 v -700 h 700 v 147.999998 h -539 v 135 h 481 V 194.99991 h -481 v 270 z"
+       id="path1-0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:label="F" /><path
        d="m 4229,465 v -700 h 695 V -87 H 4390 V 41 h 486 v 143 h -486 v 133 h 539 v 148 z"
        id="path1"
        sodipodi:nodetypes="ccccccccccccc"
