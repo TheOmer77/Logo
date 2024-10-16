@@ -618,16 +618,17 @@
        xml:space="preserve"
        transform="translate(270.3125,-21.405701)"
        id="text77"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;white-space:pre;shape-inside:url(#rect78);fill:#000000;fill-opacity:1;stroke-width:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;white-space:pre;shape-inside:url(#rect78);display:inline;fill:#000000;fill-opacity:1;stroke-width:0"
        x="-31.200001"
-       y="0"><tspan
+       y="0"
+       inkscape:label="OMER MAKES STUFF"><tspan
          x="5314"
          y="1954.5254"
-         id="tspan27">OMER MAKES STUFF
+         id="tspan56">OMER MAKES STUFF
 </tspan><tspan
          x="5314"
          y="2104.5254"
-         id="tspan29"><tspan
+         id="tspan58"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 0 0 0 0 0 0 0.00010681152"
-           id="tspan28">A, E, F, K, M, M, O, R, S, T, U
+           id="tspan57">A, E, F, K, M, O, R, S, T, U
 </tspan></tspan></text></g></svg>
