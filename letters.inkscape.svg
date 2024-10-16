@@ -204,7 +204,12 @@
      inkscape:highlight-color="#1740ea"
      transform="translate(-641.00098,371)"><path
        fill="currentColor"
-       d="m 5092,464.99991 v -700 h 700 v 147.999998 h -539 v 135 h 481 V 194.99991 h -481 v 270 z"
+       d="M 8813.9984,1327.9998 V 775.99976 H 8543.999 v -148 h 700 v 148 h -270.0006 v 552.00004 z"
+       id="path1-9"
+       inkscape:label="T"
+       sodipodi:nodetypes="ccccccccc" /><path
+       fill="currentColor"
+       d="m 5092,465 v -700 h 700 V -87.000002 H 5253 V 48 h 481 v 147 h -481 v 270 z"
        id="path1-0"
        sodipodi:nodetypes="ccccccccccc"
        inkscape:label="F" /><path
