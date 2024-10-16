@@ -422,7 +422,7 @@
        inkscape:label="Z"><tspan
          x="449.0769"
          y="941"
-         id="tspan30">Z</tspan></text><text
+         id="tspan1">Z</tspan></text><text
        xml:space="preserve"
        transform="translate(3722.3125,1704.5946)"
        id="text68"
@@ -430,7 +430,7 @@
        inkscape:label="Y"><tspan
          x="449.0769"
          y="941"
-         id="tspan31">Y</tspan></text><text
+         id="tspan2">Y</tspan></text><text
        xml:space="preserve"
        transform="translate(2859.3125,1704.5946)"
        id="text69"
@@ -438,7 +438,7 @@
        inkscape:label="X"><tspan
          x="449.0769"
          y="941"
-         id="tspan32">X</tspan></text><text
+         id="tspan3">X</tspan></text><text
        xml:space="preserve"
        transform="translate(1996.3125,1704.5946)"
        id="text70"
@@ -446,7 +446,7 @@
        inkscape:label="W"><tspan
          x="449.0769"
          y="941"
-         id="tspan33">W</tspan></text><text
+         id="tspan4">W</tspan></text><text
        xml:space="preserve"
        transform="translate(1133.3125,1704.5946)"
        id="text71"
@@ -454,7 +454,7 @@
        inkscape:label="V"><tspan
          x="449.0769"
          y="941"
-         id="tspan34">V</tspan></text><text
+         id="tspan5">V</tspan></text><text
        xml:space="preserve"
        transform="translate(270.3125,1704.5946)"
        id="text72"
@@ -462,7 +462,7 @@
        inkscape:label="U"><tspan
          x="449.0769"
          y="941"
-         id="tspan35">U</tspan></text><text
+         id="tspan6">U</tspan></text><text
        xml:space="preserve"
        transform="translate(8037.3125,841.59461)"
        id="text47"
@@ -470,7 +470,7 @@
        inkscape:label="T"><tspan
          x="449.0769"
          y="941"
-         id="tspan36">T</tspan></text><text
+         id="tspan7">T</tspan></text><text
        xml:space="preserve"
        transform="translate(7174.3125,841.59461)"
        id="text48"
@@ -478,7 +478,7 @@
        inkscape:label="S"><tspan
          x="449.0769"
          y="941"
-         id="tspan37">S</tspan></text><text
+         id="tspan8">S</tspan></text><text
        xml:space="preserve"
        transform="translate(6311.3125,841.59461)"
        id="text37"
@@ -486,7 +486,7 @@
        inkscape:label="R"><tspan
          x="449.0769"
          y="941"
-         id="tspan38">R</tspan></text><text
+         id="tspan9">R</tspan></text><text
        xml:space="preserve"
        transform="translate(5448.3125,841.59461)"
        id="text38"
@@ -494,7 +494,7 @@
        inkscape:label="Q"><tspan
          x="449.0769"
          y="941"
-         id="tspan39">Q</tspan></text><text
+         id="tspan10">Q</tspan></text><text
        xml:space="preserve"
        transform="translate(4585.3125,841.59461)"
        id="text39"
@@ -502,7 +502,7 @@
        inkscape:label="P"><tspan
          x="449.0769"
          y="941"
-         id="tspan40">P</tspan></text><text
+         id="tspan11">P</tspan></text><text
        xml:space="preserve"
        transform="translate(3722.3125,841.59461)"
        id="text40"
@@ -510,7 +510,7 @@
        inkscape:label="O"><tspan
          x="449.0769"
          y="941"
-         id="tspan41">O</tspan></text><text
+         id="tspan12">O</tspan></text><text
        xml:space="preserve"
        transform="translate(2859.3125,841.59461)"
        id="text41"
@@ -518,7 +518,7 @@
        inkscape:label="N"><tspan
          x="449.0769"
          y="941"
-         id="tspan42">N</tspan></text><text
+         id="tspan13">N</tspan></text><text
        xml:space="preserve"
        transform="translate(1996.3125,841.59461)"
        id="text42"
@@ -526,7 +526,7 @@
        inkscape:label="M"><tspan
          x="449.0769"
          y="941"
-         id="tspan43">M</tspan></text><text
+         id="tspan14">M</tspan></text><text
        xml:space="preserve"
        transform="translate(1133.3125,841.59461)"
        id="text43"
@@ -534,7 +534,7 @@
        inkscape:label="L"><tspan
          x="449.0769"
          y="941"
-         id="tspan44">L</tspan></text><text
+         id="tspan15">L</tspan></text><text
        xml:space="preserve"
        transform="translate(270.3125,841.59461)"
        id="text44"
@@ -542,7 +542,7 @@
        inkscape:label="K"><tspan
          x="449.0769"
          y="941"
-         id="tspan45">K</tspan></text><text
+         id="tspan16">K</tspan></text><text
        xml:space="preserve"
        transform="translate(8037.3125,-21.405701)"
        id="text49"
@@ -550,7 +550,7 @@
        inkscape:label="J"><tspan
          x="449.0769"
          y="941"
-         id="tspan46">J</tspan></text><text
+         id="tspan17">J</tspan></text><text
        xml:space="preserve"
        transform="translate(7174.3125,-21.405701)"
        id="text50"
@@ -558,7 +558,7 @@
        inkscape:label="I"><tspan
          x="449.0769"
          y="941"
-         id="tspan47">I</tspan></text><text
+         id="tspan18">I</tspan></text><text
        xml:space="preserve"
        transform="translate(6311.3125,-21.405701)"
        id="text51"
@@ -566,7 +566,7 @@
        inkscape:label="H"><tspan
          x="449.0769"
          y="941"
-         id="tspan48">H</tspan></text><text
+         id="tspan19">H</tspan></text><text
        xml:space="preserve"
        transform="translate(5448.3125,-21.405701)"
        id="text52"
@@ -574,7 +574,7 @@
        inkscape:label="G"><tspan
          x="449.0769"
          y="941"
-         id="tspan49">G</tspan></text><text
+         id="tspan20">G</tspan></text><text
        xml:space="preserve"
        transform="translate(4585.3125,-21.405701)"
        id="text53"
@@ -582,7 +582,7 @@
        inkscape:label="F"><tspan
          x="449.0769"
          y="941"
-         id="tspan50">F</tspan></text><text
+         id="tspan21">F</tspan></text><text
        xml:space="preserve"
        transform="translate(3722.3125,-21.405701)"
        id="text54"
@@ -590,7 +590,7 @@
        inkscape:label="E"><tspan
          x="449.0769"
          y="941"
-         id="tspan51">E</tspan></text><text
+         id="tspan22">E</tspan></text><text
        xml:space="preserve"
        transform="translate(2859.3125,-21.405701)"
        id="text55"
@@ -598,7 +598,7 @@
        inkscape:label="D"><tspan
          x="449.0769"
          y="941"
-         id="tspan52">D</tspan></text><text
+         id="tspan23">D</tspan></text><text
        xml:space="preserve"
        transform="translate(1996.3125,-21.405701)"
        id="text56"
@@ -606,7 +606,7 @@
        inkscape:label="C"><tspan
          x="449.0769"
          y="941"
-         id="tspan53">C</tspan></text><text
+         id="tspan24">C</tspan></text><text
        xml:space="preserve"
        transform="translate(1133.3125,-21.405701)"
        id="text57"
@@ -614,7 +614,7 @@
        inkscape:label="B"><tspan
          x="449.0769"
          y="941"
-         id="tspan54">B</tspan></text><text
+         id="tspan25">B</tspan></text><text
        xml:space="preserve"
        transform="translate(270.3125,-21.405701)"
        id="text58"
@@ -622,7 +622,7 @@
        inkscape:label="A"><tspan
          x="449.0769"
          y="941"
-         id="tspan55">A</tspan></text><text
+         id="tspan26">A</tspan></text><text
        xml:space="preserve"
        transform="translate(270.3125,-21.405701)"
        id="text77"
@@ -632,11 +632,11 @@
        inkscape:label="OMER MAKES STUFF"><tspan
          x="5314"
          y="1954.5254"
-         id="tspan56">OMER MAKES STUFF
+         id="tspan27">OMER MAKES STUFF
 </tspan><tspan
          x="5314"
          y="2104.5254"
-         id="tspan58"><tspan
+         id="tspan29"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 0 0 0 0 0 0 0.00010681152"
-           id="tspan57">A, E, F, K, M, O, R, S, T, U
+           id="tspan28">A, E, F, K, M, O, R, S, T, U
 </tspan></tspan></text></g></svg>
