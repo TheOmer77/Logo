@@ -448,6 +448,11 @@
        id="path30"
        inkscape:label="M" />
     <path
+       id="path60"
+       d="M 885,972 229,1524 V 1324.9941 L 648.5,972 Z m 10,700 H 667.91016 L 293.90039,1333.9668 396,1221 Z m -759,0 V 972 h 160 v 700 z"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:label="K" />
+    <path
        d="M 4316,836 V 136 h 700 v 148 h -539 v 135 h 481 v 147 h -481 v 270 z"
        id="path31"
        inkscape:label="F" />
