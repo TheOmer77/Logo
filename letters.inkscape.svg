@@ -332,86 +332,112 @@
              id="tspan29">A, E, F, K, M, O, R, S, T, U</tspan></tspan></text>
     </g>
     <g
-       id="g2"
+       id="guide-squares"
        inkscape:label="Squares"
        fill-opacity="0.35">
       <path
-         id="path57"
+         id="guide-square-a"
+         inkscape:label="A"
          d="M 136,136 H 836 V 836 H 136 Z" />
       <path
-         id="path56"
+         id="guide-square-b"
+         inkscape:label="B"
          d="m 972,136 h 700 V 836 H 972 Z" />
       <path
-         id="path55"
+         id="guide-square-c"
+         inkscape:label="C"
          d="m 1808,136 h 700 v 700 h -700 z" />
       <path
-         id="path54"
+         id="guide-square-d"
+         inkscape:label="D"
          d="m 2644,136 h 700 v 700 h -700 z" />
       <path
-         id="path53"
+         id="guide-square-e"
+         inkscape:label="E"
          d="m 3480,136 h 700 v 700 h -700 z" />
       <path
-         id="path52"
+         id="guide-square-f"
+         inkscape:label="F"
          d="m 4316,136 h 700 v 700 h -700 z" />
       <path
-         id="path51"
+         id="guide-square-g"
+         inkscape:label="G"
          d="m 5152,136 h 700 v 700 h -700 z" />
       <path
-         id="path50"
+         id="guide-square-h"
+         inkscape:label="H"
          d="m 5988,136 h 700 v 700 h -700 z" />
       <path
-         id="path49"
+         id="guide-square-i"
+         inkscape:label="I"
          d="m 6824,136 h 700 v 700 h -700 z" />
       <path
-         id="path48"
+         id="guide-square-j"
+         inkscape:label="J"
          d="m 7660,136 h 700 v 700 h -700 z" />
       <path
-         id="path47"
+         id="guide-square-k"
+         inkscape:label="K"
          d="m 136,972 h 700 v 700 H 136 Z" />
       <path
-         id="path46"
+         id="guide-square-l"
+         inkscape:label="L"
          d="m 972,972 h 700 v 700 H 972 Z" />
       <path
-         id="path45"
+         id="guide-square-m"
+         inkscape:label="M"
          d="m 1808,972 h 700 v 700 h -700 z" />
       <path
-         id="path44"
+         id="guide-square-n"
+         inkscape:label="N"
          d="m 2644,972 h 700 v 700 h -700 z" />
       <path
-         id="path43"
+         id="guide-square-o"
+         inkscape:label="O"
          d="m 3480,972 h 700 v 700 h -700 z" />
       <path
-         id="path42"
+         id="guide-square-p"
+         inkscape:label="P"
          d="m 4316,972 h 700 v 700 h -700 z" />
       <path
-         id="path41"
+         id="guide-square-q"
+         inkscape:label="Q"
          d="m 5152,972 h 700 v 700 h -700 z" />
       <path
-         id="path40"
+         id="guide-square-r"
+         inkscape:label="R"
          d="m 5988,972 h 700 v 700 h -700 z" />
       <path
-         id="path39"
+         id="guide-square-s"
+         inkscape:label="S"
          d="m 6824,972 h 700 v 700 h -700 z" />
       <path
-         id="path38"
+         id="guide-square-t"
+         inkscape:label="T"
          d="m 7660,972 h 700 v 700 h -700 z" />
       <path
-         id="path37"
+         id="guide-square-u"
+         inkscape:label="U"
          d="m 136,1808 h 700 v 700 H 136 Z" />
       <path
-         id="path36"
+         id="guide-square-v"
+         inkscape:label="V"
          d="m 972,1808 h 700 v 700 H 972 Z" />
       <path
-         id="path35"
+         id="guide-square-w"
+         inkscape:label="W"
          d="m 1808,1808 h 700 v 700 h -700 z" />
       <path
-         id="path34"
+         id="guide-square-x"
+         inkscape:label="X"
          d="m 2644,1808 h 700 v 700 h -700 z" />
       <path
-         id="path33"
+         id="guide-square-y"
+         inkscape:label="Y"
          d="m 3480,1808 h 700 v 700 h -700 z" />
       <path
-         id="path2"
+         id="guide-square-z"
+         inkscape:label="Z"
          d="m 4316,1808 h 700 v 700 h -700 z" />
     </g>
   </g>
