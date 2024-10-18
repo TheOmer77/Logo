@@ -457,5 +457,10 @@
        d="M 3480,836 V 136 h 695 v 148 h -534 v 128 h 486 v 143 h -486 v 133 h 539 v 148 z"
        id="path32"
        inkscape:label="E" />
+    <path
+       id="path17"
+       d="M 572,136 896,836 H 725.70508 l -324,-700 z m -1.70508,0 -324,700 H 76 L 400,136 Z M 256,703 V 561 h 461 v 142 z"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:label="A" />
   </g>
 </svg>
