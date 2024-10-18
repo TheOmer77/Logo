@@ -115,15 +115,13 @@
      inkscape:label="Guides"
      sodipodi:insensitive="true">
     <g
+       id="g30"
+       inkscape:label="Text"
        font-weight="400"
        font-size="120px"
-       font-family="'Fira Code'"
-       letter-spacing="0"
-       stroke-width="0"
-       id="g30"
-       inkscape:label="Text">
+       font-family="Fira Code">
       <text
-         id="text2"
+         id="guide-text-z"
          inkscape:label="Z"
          x="4180.001"
          y="1672"><tspan
@@ -131,7 +129,7 @@
            y="2613"
            id="tspan2">Z</tspan></text>
       <text
-         id="text3"
+         id="guide-text-y"
          inkscape:label="Y"
          x="3344.001"
          y="1672"><tspan
@@ -139,7 +137,7 @@
            y="2613"
            id="tspan3">Y</tspan></text>
       <text
-         id="text4"
+         id="guide-text-x"
          inkscape:label="X"
          x="2508"
          y="1672"><tspan
@@ -147,7 +145,7 @@
            y="2613"
            id="tspan4">X</tspan></text>
       <text
-         id="text5"
+         id="guide-text-w"
          inkscape:label="W"
          x="1672"
          y="1672"><tspan
@@ -155,7 +153,7 @@
            y="2613"
            id="tspan5">W</tspan></text>
       <text
-         id="text6"
+         id="guide-text-v"
          inkscape:label="V"
          x="836"
          y="1672"><tspan
@@ -163,14 +161,14 @@
            y="2613"
            id="tspan6">V</tspan></text>
       <text
-         id="text7"
+         id="guide-text-u"
          inkscape:label="U"
          y="1672"><tspan
            x="449.077"
            y="2613"
            id="tspan7">U</tspan></text>
       <text
-         id="text8"
+         id="guide-text-t"
          inkscape:label="T"
          x="7524.002"
          y="836"><tspan
@@ -178,7 +176,7 @@
            y="1777"
            id="tspan8">T</tspan></text>
       <text
-         id="text9"
+         id="guide-text-s"
          inkscape:label="S"
          x="6688.002"
          y="836"><tspan
@@ -186,7 +184,7 @@
            y="1777"
            id="tspan9">S</tspan></text>
       <text
-         id="text10"
+         id="guide-text-r"
          inkscape:label="R"
          x="5852.002"
          y="836"><tspan
@@ -194,7 +192,7 @@
            y="1777"
            id="tspan10">R</tspan></text>
       <text
-         id="text11"
+         id="guide-text-q"
          inkscape:label="Q"
          x="5016.001"
          y="836"><tspan
@@ -202,7 +200,7 @@
            y="1777"
            id="tspan11">Q</tspan></text>
       <text
-         id="text12"
+         id="guide-text-p"
          inkscape:label="P"
          x="4180.001"
          y="836"><tspan
@@ -210,7 +208,7 @@
            y="1777"
            id="tspan12">P</tspan></text>
       <text
-         id="text13"
+         id="guide-text-o"
          inkscape:label="O"
          x="3344.001"
          y="836"><tspan
@@ -218,7 +216,7 @@
            y="1777"
            id="tspan13">O</tspan></text>
       <text
-         id="text14"
+         id="guide-text-n"
          inkscape:label="N"
          x="2508.001"
          y="836"><tspan
@@ -226,7 +224,7 @@
            y="1777"
            id="tspan14">N</tspan></text>
       <text
-         id="text15"
+         id="guide-text-m"
          inkscape:label="M"
          x="1672"
          y="836"><tspan
@@ -234,7 +232,7 @@
            y="1777"
            id="tspan15">M</tspan></text>
       <text
-         id="text16"
+         id="guide-text-l"
          inkscape:label="L"
          x="836"
          y="836"><tspan
@@ -242,77 +240,77 @@
            y="1777"
            id="tspan16">L</tspan></text>
       <text
-         id="text17"
+         id="guide-text-k"
          inkscape:label="K"
          y="836"><tspan
            x="449.077"
            y="1777"
            id="tspan17">K</tspan></text>
       <text
-         id="text18"
+         id="guide-text-j"
          inkscape:label="J"
          x="7524.002"><tspan
            x="7973.0791"
            y="941"
            id="tspan18">J</tspan></text>
       <text
-         id="text19"
+         id="guide-text-i"
          inkscape:label="I"
          x="6688.002"><tspan
            x="7137.0791"
            y="941"
            id="tspan19">I</tspan></text>
       <text
-         id="text20"
+         id="guide-text-h"
          inkscape:label="H"
          x="5852.002"><tspan
            x="6301.0791"
            y="941"
            id="tspan20">H</tspan></text>
       <text
-         id="text21"
+         id="guide-text-g"
          inkscape:label="G"
          x="5016.001"><tspan
            x="5465.0781"
            y="941"
            id="tspan21">G</tspan></text>
       <text
-         id="text22"
+         id="guide-text-f"
          inkscape:label="F"
          x="4180.001"><tspan
            x="4629.0781"
            y="941"
            id="tspan22">F</tspan></text>
       <text
-         id="text23"
+         id="guide-text-e"
          inkscape:label="E"
          x="3344.001"><tspan
            x="3793.0779"
            y="941"
            id="tspan23">E</tspan></text>
       <text
-         id="text24"
+         id="guide-text-d"
          inkscape:label="D"
          x="2508.001"><tspan
            x="2957.0779"
            y="941"
            id="tspan24">D</tspan></text>
       <text
-         id="text25"
+         id="guide-text-c"
          inkscape:label="C"
          x="1672"><tspan
            x="2121.0769"
            y="941"
            id="tspan25">C</tspan></text>
       <text
-         id="text26"
+         id="guide-text-b"
          inkscape:label="B"
          x="836"><tspan
            x="1285.077"
            y="941"
            id="tspan26">B</tspan></text>
       <text
-         id="text27"
+         id="guide-text-a"
          inkscape:label="A"><tspan
            x="449.077"
            y="941"
