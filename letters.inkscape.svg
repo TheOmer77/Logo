@@ -453,6 +453,11 @@
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:label="K" />
     <path
+       d="M 6527,837 V 137 h 161 v 700 z m -539,0 V 136 h 161 v 701 z m 75,-283 V 406 h 550 v 148 z"
+       id="path1-50"
+       inkscape:label="H"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
        d="M 4316,836 V 136 h 700 v 148 h -539 v 135 h 481 v 147 h -481 v 270 z"
        id="path31"
        inkscape:label="F" />
