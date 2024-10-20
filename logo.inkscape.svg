@@ -22,7 +22,50 @@
      inkscape:zoom="1"
      inkscape:cx="64"
      inkscape:cy="63.5"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showguides="true"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       id="guide1"
+       position="26,26"
+       orientation="0,1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide2"
+       position="26,62"
+       orientation="0,1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide3"
+       position="26,66"
+       orientation="0,1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide4"
+       position="26,102"
+       orientation="1,0"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide5"
+       position="26,102"
+       orientation="0,1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide6"
+       position="62,102"
+       orientation="1,0"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide7"
+       position="66,102"
+       orientation="1,0"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       id="guide8"
+       position="102,102"
+       orientation="1,0"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
   <path
      id="o"
      inkscape:label="O"
