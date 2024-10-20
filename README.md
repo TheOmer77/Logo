@@ -6,7 +6,6 @@
 
 </center></div>
 
-|                                                       |                                                      |
-| ----------------------------------------------------- | ---------------------------------------------------- |
-| ![Primary on white logo](./logo-primary-on-white.png) | ![White onprimary logo](./logo-white-on-primary.png) |
-| Primary on white                                      | White on primary                                     |
+| ![Primary on white logo](./logo-primary-on-white.png) | ![White on primary logo](./logo-white-on-primary.png) |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| Primary on white                                      | White on primary                                      |
