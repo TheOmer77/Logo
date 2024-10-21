@@ -6,6 +6,11 @@
 
 </center></div>
 
+## Colors
+
+- Primary: `#1740ea`
+- White: `#ffffff`
+
 ## Main logo
 
 | ![Primary on white logo](./logo/logo-primary-on-white.png) | ![White on primary logo](./logo/logo-white-on-primary.png) |
