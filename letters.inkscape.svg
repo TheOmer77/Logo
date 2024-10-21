@@ -20,11 +20,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#2f2f2f"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="0.14120609"
      inkscape:cx="4365.959"
      inkscape:cy="1352.6329"
-     inkscape:current-layer="chars" />
+     inkscape:current-layer="chars">
+    <inkscape:grid
+       type="modular"
+       id="grid1"
+       units="px"
+       originx="68"
+       originy="68"
+       spacingx="700"
+       spacingy="700"
+       gapx="136"
+       gapy="136"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <path
